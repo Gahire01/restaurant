@@ -1,16 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
+check preview on :https://restaurant-five-sable.vercel.app 
+# Run your App 
 This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/ad718404-bf7a-400b-928d-2a4c02714256
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:**  Node.js,typescript
 
 
 1. Install dependencies:
